@@ -1,8 +1,10 @@
-# React + Vite
+# 更新时间5.26
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+下载后配置好node,前端react框架，后端python，通信flask
 
-Currently, two official plugins are available:
+下载该项目后创建文件夹checkpoints，并将模型文件ViT-B-32.pt放于本文件夹下
+flask通信clip文件夹同样放在主文件夹下
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 运行方式：
+· 主文件夹下npm run dev
+· 运行app.py
